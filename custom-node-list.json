@@ -17786,6 +17786,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "xuyiqing88",
+            "title": "SDXL Style Preview Node for ComfyUI",
+            "reference": "https://github.com/xuyiqing88/ComfyUI-SDXL-Style-Preview",
+            "files": [
+                "https://github.com/xuyiqing88/ComfyUI-SDXL-Style-Preview"
+            ],
+            "install_type": "git-clone",
+            "description": "SDXL Style Preview Node optimization version, with grouping, preview, multi-style and other functions."
         }
     ]
 }
